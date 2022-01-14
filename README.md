@@ -1,5 +1,5 @@
 # EjerciciosHackerRank
 
-Ejercicios resueltos de la pagina HackerRank
+Ejercicios resueltos (problem solving) de la pagina HackerRank en Python
 
 usuario: @juancpereyra97
